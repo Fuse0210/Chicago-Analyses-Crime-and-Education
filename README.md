@@ -11,4 +11,4 @@ Chicago Crime Analysis (Choropleth map): https://nbviewer.jupyter.org/github/Fus
 
 Crime and Education (ES): https://nbviewer.jupyter.org/github/Fuse0210/Chicago-Crime-Analysis/blob/main/Crime%20and%20Education%20%28ES%29.ipynb
 
-
+High Schools in Chicago: https://nbviewer.jupyter.org/github/Fuse0210/Chicago-Analyses-Crime-and-Education/blob/main/High%20Schools%20in%20Chicago.ipynb
