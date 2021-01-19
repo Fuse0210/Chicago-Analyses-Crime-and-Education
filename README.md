@@ -7,7 +7,7 @@ Chicago Crime Analysis (Bar Charts): https://nbviewer.jupyter.org/github/Fuse021
 
 Chicago Crime Analysis (Maps): https://nbviewer.jupyter.org/github/Fuse0210/Chicago-Crime-Analysis/blob/main/Chicago%20Crime%20Analysis%20%28Maps%29.ipynb
 
-Chicago Crime Analysis (Choropleth map): https://nbviewer.jupyter.org/github/Fuse0210/Chicago-Crime-Analysis/blob/main/Chicago%20Crime%20Analysis%20%28Choropleth%20map%29.ipynb
+Chicago Crime Analysis (Choropleth map): https://nbviewer.jupyter.org/github/Fuse0210/Chicago-Analyses-Crime-and-Education/blob/main/Chicago%20Crime%20Analysis%20%28Choropleth%20map%29.ipynb
 
 Crime and Education (ES): https://nbviewer.jupyter.org/github/Fuse0210/Chicago-Crime-Analysis/blob/main/Crime%20and%20Education%20%28ES%29.ipynb
 
