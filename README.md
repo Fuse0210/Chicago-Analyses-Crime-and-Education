@@ -24,18 +24,17 @@ The analysis is based on the following datasets:
 
 ## Analysis Workflow
 1.  **Data Cleaning**: Merging and preprocessing datasets for analysis.
-2.  **Exploratory Data Analysis (EDA)**:
+2.  **Descriptive Analysis**
+3.  **Exploratory Data Analysis (EDA)**:
     * Analyzing temporal and spatial trends in crime.
     * Visualizing the distribution of school ratings.
-3.  **Correlation Analysis**: Investigating the relationship between crime frequency and school performance metrics.
-
-
-## Method
-* Descriptive analyses
-* K means clustering
-
+    * K means clustering method
 
 ## Key Findings
+
+![Crime Pattern Analysis](types of incidents.png)
+
+
 
 
 
