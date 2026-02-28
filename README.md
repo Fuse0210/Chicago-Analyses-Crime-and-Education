@@ -55,9 +55,9 @@ I visualized crime data in relation to school performance by comparing low-perfo
 🔗 **Interactive Map**: [High-Performing Schools Map](https://tinyurl.com/2p9ryvnj) (The first link is the actual map; the others are static images).
 
 ## Key Findings
-1. The top 3 **criminal incidents** in Chicago in 2020 were: **Narcotics**, **Battery**, and **Weapons Violation**.
-2. Four "low-performing" elementary schools were located in the neighborhood with the highest **crime rate**.
-3. "Low-performing schools" were significantly more likely to be located in **neighborhoods** with higher **crime rates**.
+1. **The top 3 criminal incidents** in Chicago in 2020 were: **Narcotics**, **Battery**, and **Weapons Violation**.
+2. **Four "low-performing" elementary schools** were located in the neighborhood with **the highest crime rate**.
+3. "Low-performing schools" were significantly more likely to be located in neighborhoods with higher crime rates.
 4. "High-performing schools" tended to be located in safer neighborhoods (indicated by lighter colors on the map).
 
 ---
