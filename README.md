@@ -44,7 +44,7 @@ I visualized crime data in relation to school performance by comparing low-perfo
 *Note: You can click the markers to see the school names:*
 ![Low Performing Schools Labels](images/low%20performing%20schools%20labels.png)
 
-🔗 **Interactive Map**: [Low-Performing Schools Map](https://nbviewer.org/github/Fuse0210/Chicago-Analyses-Crime-and-Education/blob/main/Crime%20and%20Education%20%28ES%29.ipynb#Locations-of-the-schools-with-the-lowest-scores) (The first link is the actual map; the others are static images).
+🔗 **Interactive Map**: [Low-Performing Schools Map](https://nbviewer.org/github/Fuse0210/Chicago-Analyses-Crime-and-Education/blob/main/Crime%20and%20Education%20%28ES%29.ipynb#Locations-of-the-schools-with-the-lowest-scores) (The first map is the actual map; the others are static images).
 
 **High-Performing Schools:**
 ![High Performing Schools](images/high%20performing%20schools.png)
@@ -52,7 +52,7 @@ I visualized crime data in relation to school performance by comparing low-perfo
 *Note: You can click the markers to see the school names:*
 ![High Performing Schools Labels](images/high%20performing%20schools%20labels.png)
 
-🔗 **Interactive Map**: [High-Performing Schools Map](https://nbviewer.org/github/Fuse0210/Chicago-Analyses-Crime-and-Education/blob/main/Crime%20and%20Education%20%28ES%29.ipynb#Locations-of-the-schools-with-the-highest-scores) (The first link is the actual map; the others are static images).
+🔗 **Interactive Map**: [High-Performing Schools Map](https://nbviewer.org/github/Fuse0210/Chicago-Analyses-Crime-and-Education/blob/main/Crime%20and%20Education%20%28ES%29.ipynb#Locations-of-the-schools-with-the-highest-scores) (The first map is the actual map; the others are static images).
 
 ## Key Findings
 1. **The top 3 criminal incidents** in Chicago in 2020 were: **Narcotics**, **Battery**, and **Weapons Violation**.
