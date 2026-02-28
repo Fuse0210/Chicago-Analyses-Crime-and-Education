@@ -16,6 +16,7 @@ The analysis is based on the following datasets:
 ## Tech Stack
 * Python 3
 * Pandas (Data manipulation)
+* NumPy (Numerical computing)
 * Matplotlib / Folium (Visualization)
 * Jupyter Notebook
 
