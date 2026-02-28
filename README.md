@@ -32,7 +32,7 @@ The analysis is based on the following datasets:
 
 ## Key Findings
 
-![Crime Pattern Analysis](types of incidents.png)
+![Types of Incidents Analysis](images/types%20of%20incidents.png)
 
 
 
