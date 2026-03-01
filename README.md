@@ -3,7 +3,7 @@
 This project analyzes the relationship between **crime rates** and **educational quality (public elementary school performance)** across different communities in Chicago.
 
 ## Project Objective
-The goal is to analyze criminal patterns in Chicago and explore potential correlations between school performance ratings and local crime incidents using open data, aiming to visualize trends and understand community dynamics.
+The goal is to analyze criminal patterns in Chicago and explore potential correlations between acacemic achievement and local crime incidents using open data, aiming to visualize trends and understand community dynamics.
 
 ## Datasets
 The analysis is based on the following datasets:
