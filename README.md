@@ -14,7 +14,7 @@ The analysis is based on the following datasets:
 5. **Sampling**: The first 1,000 incidents in the original crime dataset were used to create the maps.
 
 ## Tech Stack
-* Python 3
+* Python 
 * Pandas (Data manipulation)
 * NumPy (Numerical computing)
 * Matplotlib / Folium (Visualization)
