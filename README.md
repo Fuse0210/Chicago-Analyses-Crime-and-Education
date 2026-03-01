@@ -11,7 +11,7 @@ The analysis is based on the following datasets:
 2. **Chicago School Data**: Information regarding public elementary school performance scores and demographics.
 3. **Data Processing**: The dataset originally included 462 elementary schools; **451 schools were analyzed** (11 schools were dropped due to missing data).
 4. **Metrics**: The percentage of students meeting target levels in Math and Reading (Grades 3-5) was used as an academic achievement metric.
-5. **Sampling**: The first 1,000 incidents in the original crime dataset were used to analyze specific crime patterns.
+5. **Sampling**: The first 1,000 incidents in the original crime dataset were used to create the maps.
 
 ## Tech Stack
 * Python 3
